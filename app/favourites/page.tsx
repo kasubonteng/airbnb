@@ -1,4 +1,4 @@
-import getCurrentUser from '../actions/getCurrentUser';
+import { getCurrentUser } from '../actions/getCurrentUser';
 import getFavouriteListings from '../actions/getFavouriteListing';
 import EmptyState from '../components/EmptyState';
 import FavouritesClient from './FavouritesClient';
