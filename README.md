@@ -1,7 +1,6 @@
 ## Airbnb Clone
 
-## This was made using
+Airbnb clone made using
 
-## NextJs13
-
-## Prisma
+- NextJs13
+- Prisma
